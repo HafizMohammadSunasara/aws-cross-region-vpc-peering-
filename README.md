@@ -106,11 +106,10 @@ This repository preserves **both original screenshots and enlarged, lightly shar
 
 **Virginia → London — private-IP replies observed**
 
-[![Virginia to London ping results](evidence/enhanced/05-ping-virginia-to-london.png)](evidence/enhanced/05-ping-virginia-to-london.png)
-
+[![Virginia to London ping results](evidence/05-ping-virginia-to-london.png)](evidence/05-ping-virginia-to-london.png)
 **London → Virginia — private-IP replies observed**
 
-[![London to Virginia ping results](evidence/enhanced/06-ping-london-to-virginia.png)](evidence/enhanced/06-ping-london-to-virginia.png)
+[![London to Virginia ping results](evidence/06-ping-london-to-virginia.png)](evidence/06-ping-london-to-virginia.png)
 
 The visible terminal replies were in the neighborhood of **76 ms round-trip time** during the captured sessions. This is an observation from the screenshots, **not** a benchmark, latency guarantee or sustained availability measurement.
 
