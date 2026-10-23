@@ -161,8 +161,7 @@ The **[DEEP-DIVE.md](DEEP-DIVE.md)** is a guided technical handbook—from simpl
 | [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) | Common failure modes and diagnostic approach |
 | [EVIDENCE-INDEX.md](docs/EVIDENCE-INDEX.md) | Screenshot-by-screenshot evidence explanation |
 | [diagrams/](diagrams/) | Enlarged reference architecture |
-| [evidence/raw/](evidence/raw/) | Original captured screenshots |
-| [evidence/enhanced/](evidence/enhanced/) | Enlarged copies for comfortable reading |
+| [evidence/raw/](evidence/). | My Original Screen Shots
 
 ### Repository layout
 
